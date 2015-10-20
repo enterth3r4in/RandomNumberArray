@@ -9,3 +9,6 @@ print(random_numbers)
 
 for x in range(len(random_numbers)):
     print(random_numbers[x])
+
+random_numbers.sort()
+print(random_numbers)
